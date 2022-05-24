@@ -1,4 +1,33 @@
-#include <stdio.h>
+Isso ae 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-#include <stdio.h>
 #include <stdlib.h>
 
 void inicio(){
